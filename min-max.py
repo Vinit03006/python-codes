@@ -7,8 +7,8 @@ for i in mylst:
                 min = i
          elif i > max:
                max = i  
-print(min , "is smallest number in list")
-print(max , "is largest number in list")
+print(min , "is the smallest number in list")
+print(max , "is the largest number in list")
 
 
 
