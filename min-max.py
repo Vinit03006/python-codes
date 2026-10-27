@@ -9,10 +9,11 @@ for i in mylst:
                max = i  
 print(min , "is smallest number in list")
 print(max , "is largest number in list")
+print("This minmax code")
 
 
 
-         
+       
   
     
         
